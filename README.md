@@ -9,7 +9,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/jpasholk/jekyll-uikit.svg)](https://github.com/jpasholk/jekyll-uikit/graphs/contributors)
 [![Gem](https://img.shields.io/gem/v/jekyll-uikit.svg)](https://rubygems.org/gems/jekyll-uikit)
 
-[Live Demo](https://jekyll-uikit.jpasholk.com)
+[Live Demo](https://jekyll-uikit.css2jekyll.com)
 
 ## Home Page
 
@@ -111,7 +111,7 @@ Or install it yourself as:
 
 ## Usage
 
-* You can find instructions on using this theme in the [blog](https://jekyll-uikit.jpasholk.com/blog/) of the demo site.
+* You can find instructions on using this theme in the [blog](https://jekyll-uikit.css2jekyll.com/blog/) of the demo site.
 
 ## Contributing
 
